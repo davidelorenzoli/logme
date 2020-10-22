@@ -1,4 +1,4 @@
-[![Build Status](http://ebslinbeta.dev.blackrock.com:8080/buildStatus/icon?job=adt/aladdin-logger/master&build=2)](http://ebslinbeta.dev.blackrock.com:8080/job/adt/job/aladdin-logger/job/master/2/)
+![logme-main](https://github.com/davidelorenzoli/logme/workflows/Java%20CI%20with%20Maven/badge.svg?branch=main)
 
 # Logme
 
