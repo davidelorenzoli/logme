@@ -11,7 +11,7 @@ The main advantages are:
 * User-defined data context formatting, e.g. JSON, XML
 * Log entries easier to write (and maintain) without messy string concatenations
 * User-defined data appenders
-* It leverages existing BlackRock adopted logging framework SLF4J and Log4j
+* It leverages existing logging framework SLF4J and Log4j
 
 ## Basic Example
 This is Logme simplest usage. The default data appender is used, i.e. DefaultAppender.
